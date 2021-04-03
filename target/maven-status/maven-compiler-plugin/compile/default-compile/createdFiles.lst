@@ -1,0 +1,9 @@
+com/example/ng5api/model/Answer.class
+com/example/ng5api/model/AuditModel.class
+com/example/ng5api/Ng5ApiApplication.class
+com/example/ng5api/model/Question.class
+com/example/ng5api/controller/QuestionController.class
+com/example/ng5api/repository/QuestionRepository.class
+com/example/ng5api/controller/AnswerController.class
+com/example/ng5api/repository/AnswerRepository.class
+com/example/ng5api/exception/ResourceNotFoundException.class
