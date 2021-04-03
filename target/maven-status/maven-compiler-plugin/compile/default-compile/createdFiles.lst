@@ -1,9 +1,6 @@
-com/example/ng5api/model/Answer.class
-com/example/ng5api/model/AuditModel.class
-com/example/ng5api/Ng5ApiApplication.class
-com/example/ng5api/model/Question.class
-com/example/ng5api/controller/QuestionController.class
-com/example/ng5api/repository/QuestionRepository.class
-com/example/ng5api/controller/AnswerController.class
-com/example/ng5api/repository/AnswerRepository.class
-com/example/ng5api/exception/ResourceNotFoundException.class
+com/apis/colposapi/repository/example/ContactRepository.class
+com/apis/colposapi/controller/example/ContactController.class
+com/apis/colposapi/model/example/Contact.class
+com/apis/colposapi/ColposApiApplication.class
+com/apis/colposapi/model/common/AuditModel.class
+com/apis/colposapi/exception/ResourceNotFoundException.class

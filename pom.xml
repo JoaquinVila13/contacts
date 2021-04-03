@@ -16,10 +16,10 @@
 		<java.version>1.8</java.version>
 	</properties>
 	<groupId>com.example</groupId>
-	<artifactId>ng5-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>ng5-api</name>
-	<description>api ng5</description>
+	<artifactId>colpos-api</artifactId>
+	<version>0.1</version>
+	<name>colps-api</name>
+	<description>api colpos</description>
 
 	
 
