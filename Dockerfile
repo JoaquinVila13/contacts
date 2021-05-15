@@ -8,7 +8,7 @@ LABEL maintainer="adsoft@live.com.mx"
 VOLUME /tmp
 
 # Make port 8080 available to the world outside this container
-EXPOSE 8192
+EXPOSE 8151
 
 # The application's jar file
 ARG JAR_FILE=target/colpos-api-0.1.jar

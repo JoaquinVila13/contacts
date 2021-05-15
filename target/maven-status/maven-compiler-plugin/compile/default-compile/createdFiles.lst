@@ -1,6 +1,6 @@
-com/apis/colposapi/repository/example/ContactRepository.class
-com/apis/colposapi/controller/example/ContactController.class
-com/apis/colposapi/model/example/Contact.class
-com/apis/colposapi/ColposApiApplication.class
-com/apis/colposapi/model/common/AuditModel.class
-com/apis/colposapi/exception/ResourceNotFoundException.class
+com\apis\colposapi\exception\ResourceNotFoundException.class
+com\apis\colposapi\ColposApiApplication.class
+com\apis\colposapi\repository\example\ContactRepository.class
+com\apis\colposapi\model\common\AuditModel.class
+com\apis\colposapi\model\example\Contact.class
+com\apis\colposapi\controller\example\ContactController.class
